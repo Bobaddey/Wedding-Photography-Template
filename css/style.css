@@ -50,9 +50,6 @@ nav li .btn{
 .display-3, .display-2, .lead{
     font-family: 'Playfair Display', serif;
 }
-.tele{
-    background: url(/TEAM-NEW-AVENGERS-PHOTOGRAPY-develop/3-4/images/married-couple-about-to-kiss-3347415\ 1.png)
-}
 section #carousel{
     margin: 0px 200px;
     background: rgba(11, 12, 16, 0.2);
@@ -65,7 +62,7 @@ section #carousel{
     color: #fff;
 }
 .portfolio-icon{
-    background: url(/images/married-couple-about-to-kiss-3347415\ 1.png);
+    background: url(/images/marriedcouple.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
